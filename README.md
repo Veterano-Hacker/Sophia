@@ -5,11 +5,11 @@
 <a href="#"><img title="Sophia" src="https://img.shields.io/badge/Sophia-white?colorA=%23ff0000&colorB=%23017e710&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Hisham-Muhammed/Sophia?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Veterano-hacker/Sophia?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://youtube.com/c/ICHUTECH">Hisham-Muhammed</a> to make it public
+Project created by <a href="https://youtube.com/c/ICHUTECH">Veterano-hacker</a> to make it public
     <br>
        | © |
         Reserved |
@@ -22,10 +22,10 @@ Project created by <a href="https://youtube.com/c/ICHUTECH">Hisham-Muhammed</a> 
   <a href="httsp://github.com/ichu-s/sophia">
     <img src="https://img.shields.io/github/repo-size/ichu-s/sophia?color=green&label=Repo%20total%20size&style=flat-square">
 <p align="center">
-<a href="https://github.com/Hisham-muhammed/followers"><img title="Followers" src="https://img.shields.io/github/followers/Hisham-muhammed?color=blue&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Hisham-muhammed/sophia?color=blue&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Hisham-muhammed/sophia?color=blue&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Hisham-muhammed/sophia?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Veterano-hacker/followers"><img title="Followers" src="https://img.shields.io/github/followers/Veterano-hacker?color=blue&style=flat-square"></a>
+<a href="https://github.com/ameer-kallumthodi/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Veterano-hacker/sophia?color=blue&style=flat-square"></a>
+<a href="https://github.com/ameer-kallumthodi/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Veterano-hacker/sophia?color=blue&style=flat-square"></a>
+<a href="https://github.com/ameer-kallumthodi/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Veterano-hacker/sophia?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -33,7 +33,7 @@ Project created by <a href="https://youtube.com/c/ICHUTECH">Hisham-Muhammed</a> 
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/G90s1pqZwAjJ7SjQzzqiXe)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/EPLpVMeFXBeCwSXLu9SewU)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ameer-kallumthodi&repo=PublicBot&theme=nightowl)](https://github.com/ameer-kallumthodi/PublicBot)
@@ -77,7 +77,7 @@ Click WA logo to Join Support Group 👇
 | Lydia|✅|1.2|
 
 | Music Downloader|✅|1.2|
-
+9
 | Meme Maker|✅|1.0|
 
 | Mute & Unmute Chat|✅|1.3|
